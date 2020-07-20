@@ -1,0 +1,2 @@
+# DistrubutedBFS
+基于太湖之光超算平台与MPI集群的的分布式图BFS算法
